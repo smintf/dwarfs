@@ -8,7 +8,7 @@ Install dependencies.
 npm install
 ```
 
-Build a compact version in **electronapp** folders.
+Build a compact version in **electronapp** folder.
 ```
 ./build.sh
 ```
