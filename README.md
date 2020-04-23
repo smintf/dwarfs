@@ -1,5 +1,5 @@
 # Dwarfs: There and Back Again
-**A basic idle game made wih JS. Won JS13K 2019 at 8th place and 2th place in mobile category.**
+**A basic idle game made with JS. Won JS13K 2019 at 8th place and 2th place in mobile category turned into a Progressive Web App**
 ![dwarfs](screenshot.png)
 
 ## Installation
@@ -8,7 +8,7 @@ Install dependencies.
 npm install
 ```
 
-Build a compact version in both **build** and **electronapp** folders.
+Build a compact version in **electronapp** folders.
 ```
 ./build.sh
 ```
@@ -26,7 +26,8 @@ npm install
 ```
 
 ## Contributors
+*Fork Author: [Smint](https://github.com/SmintGaming)*
 
 *Original Author: [Msvalikov](https://github.com/mvasilkov)*
 
-*Contributor: [Yutyo](https://github.com/yutyo)*
+*Orignal Contributor: [Yutyo](https://github.com/yutyo)*
