@@ -1,5 +1,5 @@
 # Dwarfs: There and Back Again
-**A basic idle game made with JS. Won JS13K 2019 at 8th place and 2th place in mobile category turned into a Progressive Web App**
+**A basic idle game made with JS. Won JS13K 2019 at 8th place and 2th place in mobile category. Has been turned into a Progressive Web App**
 ![dwarfs](screenshot.png)
 
 ## Installation
