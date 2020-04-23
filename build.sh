@@ -2,7 +2,7 @@
 
 rm -f build/*
 
-npx cleancss --output build/app.css -- stylesheets/app.css
+npx cleancss --output app.css -- stylesheets/app.css
 
 npx terser --ecma 5 --enclose --compress --mangle --lint --output build/app.js -- \
 	javascript/reverbgen.js javascript/audio.js javascript/oborona.js \
@@ -13,6 +13,6 @@ npx terser --ecma 5 --enclose --compress --mangle --lint --output build/app.js -
 npx html-minifier --collapse-whitespace --remove-attribute-quotes \
 	--output build/index.html -- index_build.html
 
-npx terser --parse expression --output build/manifest.json -- manifest.json
-cp icon.png build/icon.png
-cp -r build/. electronapp/
+npx terser --parse expression --output manifest.json -- manifest.json
+cp icon.png 
+cp -r electronapp/
