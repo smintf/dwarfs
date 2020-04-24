@@ -14,3 +14,4 @@ npx html-minifier --collapse-whitespace --remove-attribute-quotes \
 	--output build/index.html -- index_build.html
 
 npx terser --parse expression --output build/manifest.json -- manifest.json
+npx terser --parse expression --output build/pwabuilder-sw.js -- pwabuilder-sw.js
