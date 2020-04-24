@@ -4,7 +4,9 @@
 
 ## Installation 
 Visit [https://smintgaming.github.io/dwarfs-pwa/]
+
 And Click The Top Right **+** Button To Install
+
 ![dwarfs](screen.png)
 
 ![dwarfs](screenshot2.png)
