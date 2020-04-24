@@ -4,8 +4,14 @@ function show(shown, hidden) {
   return false;
 }
 
-document.getElementById("about").addEventListener("click", function(){alert("Dwarfs: There And Back Again\nGPLv3\nMade with love by mvasilkov and yutyo and smint.");});
+var el = document.getElementById("about")
+if(el){
+  el.addEventListener("click", function(){
+  alert("Dwarfs: There And Back Again\nGPLv3\nMade with love by mvasilkov and yutyo and smint.");
+});
 
-document.getElementById("quit-game").addEventListener("click", function(){
-      window.close();
+var el2 = document.getElementById("quit-game")
+if(el2){
+  el2.addEventListener("click", function(){
+  window.close();
 });
