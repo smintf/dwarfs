@@ -4,9 +4,7 @@ function show(shown, hidden) {
   return false;
 }
 
-document.getElementById("about").addEventListener("click", function(){
-  alert("Dwarfs 2019\nGPLv3\nMade with love by mvasilkov and yutyo.");
-});
+document.getElementById("about").addEventListener("click", function(){alert("Dwarfs: There And Back Again\nGPLv3\nMade with love by mvasilkov and yutyo and smint.");});
 
 document.getElementById("quit-game").addEventListener("click", function(){
       window.close();
