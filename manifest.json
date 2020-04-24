@@ -1,10 +1,10 @@
 {
+  "start_url": "http://smintgaming.github.io/",
+  "scope": "/dwarfs-pwa/",
   "dir": "ltr",
   "lang": "en",
   "name": "Dwarfs: There And Back Again",
-  "scope": "/dwarfs-pwa/",
   "display": "standalone",
-  "start_url": "http://smintgaming.github.io/",
   "short_name": "Dwarfs",
   "theme_color": "black",
   "description": "A basic idle game made with JS. Won JS13K 2019 at 8th place and 2th place in mobile category",
