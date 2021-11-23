@@ -1,9 +1,9 @@
 {
-  "start_url": "https://smintgaming.github.io/dwarfs-pwa/index.html",
-  "scope": "/dwarfs-pwa/",
+  "start_url": "https://smintf.github.io/dwarfs/index.html",
+  "scope": "/dwarfs/",
   "dir": "ltr",
   "lang": "en",
-  "name": "Dwarfs-There And Back Again",
+  "name": "Dwarfs- There And Back Again",
   "display": "standalone",
   "short_name": "Dwarfs",
   "theme_color": "black",
